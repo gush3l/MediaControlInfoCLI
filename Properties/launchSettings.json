@@ -1,0 +1,92 @@
+{
+  "profiles": {
+    "Info Command": {
+      "commandName": "Project",
+      "commandLineArgs": "info"
+    },
+    "Info Thumbnail Command": {
+      "commandName": "Project",
+      "commandLineArgs": "info thumbnail"
+    },
+    "Invalid Command": {
+      "commandName": "Project",
+      "commandLineArgs": "invalid"
+    },
+    "No Command": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    },
+    "Play Command": {
+      "commandName": "Project",
+      "commandLineArgs": "play"
+    },
+    "Pause Command": {
+      "commandName": "Project",
+      "commandLineArgs": "pause"
+    },
+    "Play/Pause Command": {
+      "commandName": "Project",
+      "commandLineArgs": "toggleplaypause"
+    },
+    "Stop Command": {
+      "commandName": "Project",
+      "commandLineArgs": "stop"
+    },
+    "Next Command": {
+      "commandName": "Project",
+      "commandLineArgs": "next"
+    },
+    "Previous Command": {
+      "commandName": "Project",
+      "commandLineArgs": "previous"
+    },
+    "FastForward Command": {
+      "commandName": "Project",
+      "commandLineArgs": "fastforward"
+    },
+    "Rewind Command": {
+      "commandName": "Project",
+      "commandLineArgs": "rewind"
+    },
+    "Repeat Command": {
+      "commandName": "Project",
+      "commandLineArgs": "repeatMode"
+    },
+    "Repeat None Command": {
+      "commandName": "Project",
+      "commandLineArgs": "repeatMode none"
+    },
+    "Repeat List Command": {
+      "commandName": "Project",
+      "commandLineArgs": "repeatMode list"
+    },
+    "Repeat Track Command": {
+      "commandName": "Project",
+      "commandLineArgs": "repeatMode track"
+    },
+    "Shuffle Command": {
+      "commandName": "Project",
+      "commandLineArgs": "shuffleMode"
+    },
+    "Shuffle True Command": {
+      "commandName": "Project",
+      "commandLineArgs": "shuffleMode true"
+    },
+    "Shuffle False Command": {
+      "commandName": "Project",
+      "commandLineArgs": "shuffleMode false"
+    },
+    "Volume Command": {
+      "commandName": "Project",
+      "commandLineArgs": "volume 25"
+    },
+    "Mute Command": {
+      "commandName": "Project",
+      "commandLineArgs": "mute"
+    },
+    "Unmute Command": {
+      "commandName": "Project",
+      "commandLineArgs": "unmute"
+    }
+  }
+}
